@@ -269,26 +269,25 @@ iframe {
 .col-1 {
   float: left;
   width: 30%;
-  background: #ccc;
 
 }
 .col-1w {
   float: left;
   width: 62%;
-  background: #ccc;
+	display: table-cell;
 
 }
 
 .col-2 {
   float: middle;
   width: 30%;
-  background: #ccc;
+	display: table-cell;
 
 }
 .col-3 {
   float: right;
   width: 28%;
-  background: #ccc;
+	display: table-cell;
 
 }
 
@@ -297,6 +296,10 @@ iframe {
 
 }
 
+.col-container {
+    display: table; /* Make the container element behave like a table */
+    width: 100%; /* Set full-width to expand the whole page */
+}
 
 .clearfix:after{
   content: ".";
