@@ -270,18 +270,18 @@ iframe {
   float: left;
   width: 25%;
   background: #ccc;
-	border: 3%;
+
 }
 .col-2 {
   float: left;
   width: 60%;
   background: #ccc;
-	border: 3%;
+
 }
 
 .col-3 {
   background: #ccc;
-	border: 3%;
+
 }
 
 .clearfix:after{
