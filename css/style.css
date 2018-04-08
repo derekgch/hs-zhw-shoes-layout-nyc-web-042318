@@ -264,10 +264,6 @@ iframe {
 		text-decoration: underline;
 	}
 /************Columns**********/
-.col-container {
-    display: table; /* Make the container element behave like a table */
-    width: 100%; /* Set full-width to expand the whole page */
-}
 
 .col-1 {
   float: left;
