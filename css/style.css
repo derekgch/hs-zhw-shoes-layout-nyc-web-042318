@@ -292,6 +292,9 @@ iframe {
 
 }
 
+.deals {
+	column-count: 3;
+}
 
 
 .clearfix:after{
