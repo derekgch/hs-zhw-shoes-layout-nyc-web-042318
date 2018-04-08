@@ -278,6 +278,7 @@ iframe {
   float: left;
   width: 62%;
 	display: table-cell;
+	border: 1px solid black;
 
 }
 
@@ -291,10 +292,12 @@ iframe {
   float: right;
   width: 28%;
 	display: table-cell;
+	border: 1px solid black;
 }
 
 .deals {
 	column-count: 3;
+	border: 1px solid black;
 
 }
 
