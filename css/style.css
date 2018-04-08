@@ -272,8 +272,8 @@ iframe {
   background: #ccc;
 
 }
-.col-2 {
-  float: left;
+.col-1w {
+  float: right;
   width: 60%;
   background: #ccc;
 
