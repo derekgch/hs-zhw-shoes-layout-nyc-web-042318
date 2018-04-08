@@ -291,15 +291,12 @@ iframe {
 .col-3 {
   float: right;
   width: 28%;
-	display: table-cell;
-	border: 1px solid white;
+
 }
 
 .deals {
 	column-count: 3;
 	padding: 20px;
-
-
 }
 
 
