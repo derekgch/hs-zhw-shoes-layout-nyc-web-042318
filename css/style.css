@@ -306,6 +306,10 @@ iframe {
   line-height: 0;
 }
 
+.archive {
+	max-height: 50px;
+}
+
 /********** Details **********/
 
 #details {
