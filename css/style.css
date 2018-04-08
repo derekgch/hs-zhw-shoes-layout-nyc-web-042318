@@ -307,7 +307,7 @@ iframe {
 }
 
 .archive {
-	max-height: 50px;
+	line-height: 80%;
 }
 
 /********** Details **********/
